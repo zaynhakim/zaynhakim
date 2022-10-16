@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning modern web apps
 - 💞️ I’m looking to collaborate on making awesome web app
-- 📫 Feel free to DM me on twitter @zynhkm
+- 📫 Feel free to DM me on twitter
 
 <!---
 zaynhakim/zaynhakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
